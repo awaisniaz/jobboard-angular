@@ -1,0 +1,6 @@
+.header-container {
+    background-image: url('../../assets/header.png');
+    min-height: 100vh;
+    /* margin-top: -20px; */
+    padding: 20px 40px;
+}
