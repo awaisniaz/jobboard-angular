@@ -10,6 +10,8 @@ export class TestimonialComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+
+
   }
 
 }
